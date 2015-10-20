@@ -21,13 +21,22 @@ In addition to the modules requeired (stated below) and server setup, to run a F
 
 Packages installed:
 Python
+
 PostgreSQL (psycopg2)
+
 Apache2
+
 Mod-WSGI
+
 Flask
+
 Git
+
 httplib2
+
 requests
+
 oauth2client
+
 SQLAlchemy
 
